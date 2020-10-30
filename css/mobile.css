@@ -1,0 +1,19 @@
+#top-nav {
+  background: #2f3f54;
+  color: #5f6977;
+  padding: 1rem 0;
+}
+
+#top-nav .btn-area {
+  text-align: left !important;
+  padding: 1rem 1rem;
+}
+
+.navbar-nav {
+  background: #e2e3e5;
+  text-align: center !important;
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: #212121;
+}

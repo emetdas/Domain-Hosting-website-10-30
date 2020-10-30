@@ -1,0 +1,140 @@
+// hero
+Simple – Easy to use – 10x faster!
+The Best Web Hosting
+Starting at $7.99 $3.95/month*
+Enter  your website to see how we can help your business grow ... 
+
+FREE Domain
+FREE Site Builders
+1-Click       WordPress Install
+24/7 Support
+
+Get Started Now!
+*Special intro offer and 30-day money-back guarantee
+
+Starting at 
+$7.99
+/month
+// hero-end
+//domain-search-area
+Find your perfect domain name
+Search Domain
+.com $12.17 .asia $5.17 .online $5.17 .me $3.49 .cn $6.99
+*All prices per annul
+//domain-search-area-end
+//service
+We offer
+awesome services
+
+So Easy to Manage
+Keywords are the search terms that people into search engines. Your rankings are based on the relevance of your page to those keywords.
+
+Secure Your Website
+Keywords are the search terms that people into search engines. Your rankings are based on the relevance of your page to those keywords.
+
+24/7 Customer Support
+Keywords are the search terms that people into search engines. Your rankings are based on the relevance of your page to those keywords.
+
+Lots of hosting services.
+Why you should choose us?
+
+You can take a look at the back-end admin panel interface from this YouTube Video Tutorial: youtu.be/Bs9Irmrt220. In this video, you will get a hint about how easy to customize everything of your pages using our Shortcodes, and the Drag and Drop functionality.
+//service-end
+//service-item
+Unlimited Traffic
+High Level Security
+Backup Available
+//service-item-end
+// Offer
+Get Started! Today's Offers
+
+SEO WP built using Live Composer — a front-end page builder for WordPress. Live Composer is a new generation of the visual editors for your website. Using simple drag and drop interface you can create any page layout. No coding skills required. We are proud to be part of the Live Composer family contributing to its success among digital marketers and web designers.
+
+Unlimited Disk Space
+Free Domain Registration
+Unlimited Domains
+99.99% Uptime Guarantee
+
+Starts at $9.99/month
+// Offer-end
+// pricing
+Pay for what you actually use. No hidden charge!
+
+SEO WP built using Live Composer — a front-end page builder for WordPress. Live Composer is a new generation of the visual editors for your website. Using simple drag and drop interface you can create any page layout. No coding skills required
+
+€190/mo
+Personal
+I think your best bet would be to start or join a startup. That’s been a reliable way to get rich for hundreds of years.
+10GB Space
+1 Free Domain
+300GB SSD Disk
+Custom domain
+Get Started Now
+
+€499/mo
+Enterprise
+I think your best bet would be to start or join a startup. That’s been a reliable way to get rich for hundreds of years.
+10GB Space
+1 Free Domain
+300GB SSD Disk
+Custom domain
+Get Started Now
+
+€999/mo
+Business
+I think your best bet would be to start or join a startup. That’s been a reliable way to get rich for hundreds of years.
+10GB Space
+1 Free Domain
+300GB SSD Disk
+Custom domain
+Get Started Now
+// pricing-end
+// testimomial
+What People Say About Us
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
+
+John Doe - Manager @ Brandio
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
+
+Maria Lopez - Manager @ Canon
+// testimomial-end
+// footer-01
+Hosting Website Builder is a big library of pre-designed web elements which help you create website in few minutes.
+
+Sign up for our mailing list to get latest updates and offers.
+Email address
+We respect your privacy
+
+Knowledge Base
+Tutorials
+Get Paid to Write
+Questions
+Meetups
+Referral Program
+Shop
+Droplets for Demos
+
+Company
+Hosting.com Blog
+About Us
+Contact Us
+Terms & Conditions
+Affiliate Terms & Conditions
+Privacy Policy
+
+Quick Contact
+Name
+Email Address
+Subject
+Message
+Send
+// footer-01-end
+// footer-02
+© 2002-2018 themexpert Inc. All rights reserved.
+About      Sitemap      Careers      Privacy Policy      Contact
+// footer-02-end
+//footer
+All other trademarks and copyrights are the property of their respective holders.
+//footer-end
