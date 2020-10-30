@@ -1,0 +1,18 @@
+*,
+*::after,
+*::before{
+    text-decoration: none !important;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+html,
+body{
+    scroll-behavior: smooth;
+}
+.nav-link,
+.nav-link:hover{
+    color: $primary-black-txt;
+    font-family: $font-two;
+    font-weight: 600;
+}

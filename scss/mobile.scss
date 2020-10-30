@@ -1,0 +1,19 @@
+@import "variable";
+#top-nav{
+    background: $to-header;
+    color: $to-header-txt;
+    padding: 1rem 0;
+    & .btn-area{
+        text-align: left !important;
+        padding: 1rem 1rem;
+    }
+}
+.navbar-nav{
+    background: $shadow-bg;
+    text-align: center !important;
+    & .nav-item{
+        & .nav-link{
+            color: $primary-black-txt;
+        }
+    }
+}
